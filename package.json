@@ -1,0 +1,24 @@
+{
+  "name": "mysql_json_converter",
+  "version": "1.0.0",
+  "description": "MySQL to JSON converter made with PHP",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamRiveraRamos/mysql_json_converter.git"
+  },
+  "keywords": [
+    "PHP",
+    "JSON",
+    "MySQL"
+  ],
+  "author": "William Rivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamRiveraRamos/mysql_json_converter/issues"
+  },
+  "homepage": "https://github.com/WilliamRiveraRamos/mysql_json_converter#readme"
+}
